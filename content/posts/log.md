@@ -6,6 +6,4 @@ cover:
     caption: "This appears to be a log of some sort."
 ---
 
-This work is derivative or Ren and Stimpy:
-
-{{< youtube -fQGPZTECYs >}}
+This work is derivative or Ren and Stimpy.
