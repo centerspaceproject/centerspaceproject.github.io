@@ -23,7 +23,7 @@
 }
 
 .logo {
-    flex-wrap: inherit
+    flex-wrap: inherit;
     align-content: center;
     horiz-align: center;
 }
