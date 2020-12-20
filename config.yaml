@@ -1,0 +1,11 @@
+baseURL: 'https://centerspaceproject.github.io'
+languageCode: en-us
+title: Center Space
+theme: papermod
+params:
+  defaultTheme: light
+  disableThemeToggle: true
+  disableSpecial1stPost: true
+  label:
+    icon: /images/logo.jpg
+    iconHeight: 48

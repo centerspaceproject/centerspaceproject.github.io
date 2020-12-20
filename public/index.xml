@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Center Space</title>
+    <link>https://centerspaceproject.github.io/</link>
+    <description>Recent content on Center Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Dec 2020 18:12:20 -0600</lastBuildDate><atom:link href="https://centerspaceproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A dog wearing a blanket</title>
+      <link>https://centerspaceproject.github.io/posts/pug-in-a-rug/</link>
+      <pubDate>Tue, 15 Dec 2020 18:12:20 -0600</pubDate>
+      
+      <guid>https://centerspaceproject.github.io/posts/pug-in-a-rug/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Lorum ipsum</title>
+      <link>https://centerspaceproject.github.io/posts/text-only/</link>
+      <pubDate>Mon, 14 Dec 2020 18:12:20 -0600</pubDate>
+      
+      <guid>https://centerspaceproject.github.io/posts/text-only/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Log</title>
+      <link>https://centerspaceproject.github.io/posts/log/</link>
+      <pubDate>Sat, 12 Dec 2020 18:12:20 -0600</pubDate>
+      
+      <guid>https://centerspaceproject.github.io/posts/log/</guid>
+      <description>This work is derivative or Ren and Stimpy:
+  </description>
+    </item>
+    
+    <item>
+      <title>Maude Lebowski</title>
+      <link>https://centerspaceproject.github.io/posts/maude-lebowski/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://centerspaceproject.github.io/posts/maude-lebowski/</guid>
+      <description>My art has been commended as being strongly vaginal which bothers some men. The word itself makes some men uncomfortable. Vagina. They don&amp;rsquo;t like hearing it and find it difficult to say whereas without batting an eye a man will refer to his dick or his rod or his Johnson.
+ &amp;ndash; Maude Lebowski</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://centerspaceproject.github.io/posts/pug-in-a-rug/</loc>
+    <lastmod>2020-12-15T18:12:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://centerspaceproject.github.io/</loc>
+    <lastmod>2020-12-15T18:12:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://centerspaceproject.github.io/posts/</loc>
+    <lastmod>2020-12-15T18:12:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://centerspaceproject.github.io/posts/text-only/</loc>
+    <lastmod>2020-12-14T18:12:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://centerspaceproject.github.io/posts/log/</loc>
+    <lastmod>2020-12-12T18:12:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://centerspaceproject.github.io/posts/maude-lebowski/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://centerspaceproject.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://centerspaceproject.github.io/tags/</loc>
+  </url>
+  
+</urlset>

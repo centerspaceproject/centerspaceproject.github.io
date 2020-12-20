@@ -1,0 +1,27 @@
+systems:
+- darwin/amd64
+- linux/amd64
+dependencies:
+  hugo:
+    template: hugo
+    vars:
+      version: 0.79.1
+templates:
+  hugo:
+    url: https://github.com/gohugoio/hugo/releases/download/v{{.version}}/hugo_{{.version}}_{{.os}}-{{.arch}}.tar.gz
+    required_vars:
+    - version
+    substitutions:
+      arch:
+        amd64: 64bit
+      os:
+        darwin: macOS
+        linux: Linux
+    systems:
+    - darwin/amd64
+    - linux/amd64
+template_sources:
+  origin: https://raw.githubusercontent.com/WillAbides/bindown-templates/master/bindown.yml
+url_checksums:
+  https://github.com/gohugoio/hugo/releases/download/v0.79.1/hugo_0.79.1_Linux-64bit.tar.gz: cde743cdea29501e0ec231790e8c357a9f62e1cba571450fc6a92519ca102ca7
+  https://github.com/gohugoio/hugo/releases/download/v0.79.1/hugo_0.79.1_macOS-64bit.tar.gz: 3ee0c4756581a49fecbf46c5ef91c9377b69e7e8b9ea4be553a9ede5f428a30c
